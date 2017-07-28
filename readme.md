@@ -38,7 +38,7 @@ http://localhost:8080/api/getArrivalBoardWithDB
 Request: POST
 Content-Type: application/json
 Raw payload: {
-"firstName": "Darren",
+    "firstName": "Darren",
     "lastName": "Marsden",
     "numRows": 10,
     "timeWindowInMins": 120
@@ -59,7 +59,7 @@ Raw payload: {
 Request: POST
 Content-Type: application/json
 Raw payload: {
-  	"firstName": "Jane",
+    "firstName": "Jane",
     "lastName": "Doe",
     "numRows": 10,
     "timeWindowInMins": 120
